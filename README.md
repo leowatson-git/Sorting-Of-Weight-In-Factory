@@ -3,7 +3,7 @@ Sorting by weight
 </h2>
 
 <p align="center">
-  <img src="/Documentation/images/work-line.gif">
+  <img src="/documentation/images/work-line.gif">
 </p>
 <p align="center">
 	Project code in TIA Portal and model in FacotryIO.
